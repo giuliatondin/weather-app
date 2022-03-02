@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# React Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://img.shields.io/github/languages/count/giuliatondin/weather-app?color=%23ffd103&style=for-the-badge)
+![image](https://img.shields.io/github/languages/top/giuliatondin/weather-app?color=%23ffd103&style=for-the-badge)
+![image](https://img.shields.io/github/repo-size/giuliatondin/weather-app?color=%23ffd103&style=for-the-badge)
+![image](https://img.shields.io/github/license/giuliatondin/weather-app?color=%23ffd103&style=for-the-badge)
 
-## Available Scripts
+<img src="weather-app-banner.png" alt="Banner do repositório">
 
-In the project directory, you can run:
+> A weather aplication consuming Open Weather Map API with React. The app presents the current weather and forecast data for any location.
 
-### `npm start`
+## 🚀 Code and tools
+The following tools were used to build this project:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* [React](https://reactjs.org);
+* [JavaScript](https://developer.mozilla.org/docs/Web/JavaScript);
+* [SCSS](https://sass-lang.com);
+* [Material-UI](http://mui.com/).
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 💻 Requirements
+Before start, make sure you've met the following requirements:
+* You have Node.js installed;
+* You have NPM or YARN installed;
+* You have a code editor installed (e.g. Visual Studio Code).
 
-### `npm test`
+## ⚡ Running the application
+After installing the requirements, follow these steps to run the application on your computer:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Open the project folder on cmd;
+* Run `npm start` or `yarn start`.
 
-### `npm run build`
+You can make the desired changes in the application and view them in the browser localhost. 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🎯 Features
+The application has the following features:
+- [x] A search component to search any location that you want to know weather data;
+- [x] Presents the current and the feels like temperature, further a one week weather forecast, for the search location;
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+In an upcoming update, it would be interesting to add:
+- [ ] Temperature variations in the same day;
+- [ ] More informations such as humidity, wind and alerts.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Author
+Made with ❤️ by Giulia Tondin 👋 <a href="https://github.com/giuliatondin">Get in touch!</a>
