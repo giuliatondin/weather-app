@@ -7,7 +7,7 @@
 
 <img src="weather-app-banner.png" alt="Banner do repositório">
 
-> A weather aplication consuming Open Weather Map API with React. The app presents the current weather and forecast data for any location.
+> A weather application consuming Open Weather Map API with React. The app presents the current weather and forecast data for any location.
 
 ## 🚀 Code and tools
 The following tools were used to build this project:
